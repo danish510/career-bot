@@ -1,4 +1,4 @@
-# 🤖 Bot Penasihat Karir Discord
+# 🤖 Bot Penasihat Karir Discord | Type 3
 
 ## 📌 Deskripsi Proyek
 
